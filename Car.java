@@ -3,6 +3,7 @@ public class Car {
     public static void main(String[] args) {
         Car c1 = Car.initCar();
         Car c2 = Car.initCar();
+        System.out.println("Version 2");            
     }
 
     private Car(){
