@@ -18,5 +18,6 @@ public class Car {
 
     private static void test() {
         System.out.println("Commit to GitHub");
+        System.out.println("Version 5");
     }
 }
