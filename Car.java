@@ -15,4 +15,8 @@ public class Car {
         
         return car;
     }
+
+    private static void test() {
+        System.out.println("Commit to GitHub");
+    }
 }
